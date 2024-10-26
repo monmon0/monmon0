@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me:
-- [Linkedin]([url](https://www.linkedin.com/in/monicatrinhh/))
+- [Linkedin](https://www.linkedin.com/in/monicatrinhh/)
 - [Perosnal Portfolio](https://monicatrinh.com/)
 <!--
 **monmon0/monmon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
