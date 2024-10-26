@@ -1,13 +1,14 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
+- 🔭 I’m a Computer Science/Data Science at University of Waterloo
 - 😄 Pronouns: she/her
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning PRODUCT design/management and DATA SCIENCE
+- 👯 I’m looking to collaborate on exciting projects that drive passion with creativity
+- 🤔 I’m looking for help with my career growth and how to lead a successful product
+- 💬 Ask me about art or karaoke-ing! I'm always down to get to know more aspirational people <3
 - 📫 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/monicatrinhh/)
-- [Perosnal Portfolio](https://monicatrinh.com/)
+- [Personal Portfolio](https://monicatrinh.com/)
+- [Email](mailto:monicatrinh@gmail.com)
 <!--
 **monmon0/monmon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
