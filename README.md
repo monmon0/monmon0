@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m a Computer Science/Data Science at University of Waterloo
 - 😄 Pronouns: she/her
-- 🌱 I’m currently learning PRODUCT design/management and DATA SCIENCE
+- 🌱 I’m currently learning DATA SCIENCE
 - 👯 I’m looking to collaborate on exciting projects that drive passion with creativity
 - 🤔 I’m looking for help with my career growth and how to lead a successful product
 - 💬 Ask me about art or karaoke-ing! I'm always down to get to know more aspirational people <3
